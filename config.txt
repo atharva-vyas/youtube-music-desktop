@@ -1,2 +1,0 @@
-Store_Temp_Streaming_Data: C:\Users\Admin\AppData\Local\Temp\Music
-Default_Local_Music_Dir: C:\Users\Admin\Desktop\music
