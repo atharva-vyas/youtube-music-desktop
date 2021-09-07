@@ -1,5 +1,5 @@
 # youtube-music-desktop
-Simple YouTube Music Player with local Music Streaming Capabilites
+Simple YouTube Music Player with local Music Streaming Capability
 
 How to Use:-
 1) Change your temp folder directory in config.txt
